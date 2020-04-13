@@ -33,7 +33,7 @@
   "dependencies": {
     "async-cache": "^1.1.0",
     "consola": "^2.9.0",
-    "feed": "git+https://github.com/arpitbbhayani/feed.git"
+    "@arpitbbhayani/feedcore": "git+https://github.com/arpitbbhayani/feed.git"
   },
   "devDependencies": {
     "@commitlint/cli": "latest",
