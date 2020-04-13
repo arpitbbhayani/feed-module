@@ -1,5 +1,5 @@
 {
-  "name": "@arpitbbhayani/feed",
+  "name": "nuxtjsfeed",
   "version": "1.1.0",
   "description": "Feed module enables everyone to have RSS, Atom and Json.",
   "keywords": [
@@ -33,7 +33,7 @@
   "dependencies": {
     "async-cache": "^1.1.0",
     "consola": "^2.9.0",
-    "@arpitbbhayani/feedcore": "git+https://github.com/arpitbbhayani/feed.git"
+    "nuxtjsfeedcore": "^4.1.0"
   },
   "devDependencies": {
     "@commitlint/cli": "latest",
